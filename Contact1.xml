@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Contacts.xsl"?>
+    <Containers>
+        <ContactInfo>
+            <Address>SRIEIT,
+                     Shivshail, Karai,
+                     Shiroda, Goa
+                     403103
+            </Address>
+            <Email>principal.ritgoa@gmail.com</Email>
+            <Telephone>+91 - 0123456789</Telephone>
+        </ContactInfo>
+        <ContactForm>
+            <Fname>First Name</Fname>
+            <Lname>Last Name</Lname>
+            <Emailid>Email Address</Emailid>
+            <Mnumber>Mobile Number</Mnumber>
+            <Messages>Write your message here...</Messages>
+        </ContactForm>
+    </Containers>
